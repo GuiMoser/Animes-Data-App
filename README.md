@@ -1,4 +1,4 @@
-# Anime Analysis and Recommandations
+# Anime Analysis and Recommandations Data App
 
 The purpose of this application is to use data about anime containing popular opinion and show things that may be interesting to create new recommendations for those looking for new animes and to analyse some interesting thing about animes and get conclusions.
 
