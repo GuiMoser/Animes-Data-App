@@ -4,6 +4,6 @@ The purpose of this application is to use data about anime containing popular op
 
 The app uses a data from the year 2020 from the MyAnimeList website.
 
-I did an EDA on the dataframe then I used streamlit to show some interesting data and to give ideas for anime recommendations.
+The notebook performs an EDA on the dataframe then use python and streamlit to create the web app and show some interesting data and to give ideas for anime recommendations.
 
 URL: https://animes-app.onrender.com/
